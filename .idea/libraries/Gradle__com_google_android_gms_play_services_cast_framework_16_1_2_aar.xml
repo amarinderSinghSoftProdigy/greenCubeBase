@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-cast-framework:16.1.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/16813aac78a3ea5928b4a9c84204acfe/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/16813aac78a3ea5928b4a9c84204acfe/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/ddc58c4addc20ec6ec3a72e5eb53b819/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/ddc58c4addc20ec6ec3a72e5eb53b819/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/ecb37e7642d223eb0e671ad406499c92/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/play-services-cast-framework-16.1.2.aar/ecb37e7642d223eb0e671ad406499c92/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-cast-framework/16.1.2/cb76bdab3c5c3dff478c752e5cbb5f5e6f64e8c7/play-services-cast-framework-16.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

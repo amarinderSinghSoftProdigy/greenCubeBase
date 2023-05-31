@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: me.relex:circleindicator:1.2.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/8310678d500477772910c91835ea52d8/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/8310678d500477772910c91835ea52d8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/95ea510201265960fc93bda313b3f801/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/95ea510201265960fc93bda313b3f801/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/28a5369e0f8b51c6d302c6d605601132/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/28a5369e0f8b51c6d302c6d605601132/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/me.relex/circleindicator/1.2.2/739ce17f5368373ddbce9d5ec0fd3aa82eecf4b/circleindicator-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

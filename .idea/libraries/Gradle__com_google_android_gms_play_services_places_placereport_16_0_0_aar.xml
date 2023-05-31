@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9affaaa5fd41cbddff945f65073095c4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9affaaa5fd41cbddff945f65073095c4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/161d664800d6490dafea739aa6b4f186/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/161d664800d6490dafea739aa6b4f186/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/de6e199bf409cd028eb7e7c83d2d51fa/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/df6ed06ef5b874e2ef987a503064a90a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

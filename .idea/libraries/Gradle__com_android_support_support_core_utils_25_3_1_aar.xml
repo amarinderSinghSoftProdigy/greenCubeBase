@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:25.3.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6f71f8059d92626e36cda00640ba43cf/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8df8b09cf6238cb36799291c242b4453/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ebd16afd4a24f87f649c94234de29a71/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6f71f8059d92626e36cda00640ba43cf/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6f71f8059d92626e36cda00640ba43cf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8df8b09cf6238cb36799291c242b4453/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8df8b09cf6238cb36799291c242b4453/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/21b372b5cdcf174104d5776e71c3cc10/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ebd16afd4a24f87f649c94234de29a71/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../android/sdk/extras/android/m2repository/com/android/support/support-core-utils/25.3.1/support-core-utils-25.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

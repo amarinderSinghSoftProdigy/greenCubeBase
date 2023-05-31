@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:palette-v7:26.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/bc48fcbd7a5ffef1e5520aa736d6e793/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/bc48fcbd7a5ffef1e5520aa736d6e793/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/43273a6849e0ddf0e8e1e4ca4712f4c6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/43273a6849e0ddf0e8e1e4ca4712f4c6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/a07131b6afa133371e825851f1e79f2d/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/9aadb12511c70ea1dfa05cb89ee75a0c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/com.android.support/palette-v7/26.1.0/ba4a872217a581dd9183fd4c6e8bcb111488372e/palette-v7-26.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

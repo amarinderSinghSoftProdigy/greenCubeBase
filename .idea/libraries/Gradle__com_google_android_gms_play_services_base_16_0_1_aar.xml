@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-base:16.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ac10ca6f1425dc482a3b110a380c3c9f/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ac10ca6f1425dc482a3b110a380c3c9f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/be50cd01a75f18d4965926b95905fc93/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/be50cd01a75f18d4965926b95905fc93/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cddcd07f17ddf388f66cd6583d53abbe/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cddcd07f17ddf388f66cd6583d53abbe/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

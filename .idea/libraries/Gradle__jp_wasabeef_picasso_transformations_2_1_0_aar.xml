@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: jp.wasabeef:picasso-transformations:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/930fd242a29f934c02978fd4958373bf/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/930fd242a29f934c02978fd4958373bf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/1f5a900d92ea2d451594897321ccf678/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/1f5a900d92ea2d451594897321ccf678/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/bc71ff14fe45ff68a227ace54ed6343a/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-1/files-1.1/picasso-transformations-2.1.0.aar/55857db96bf9088ed3a58f5b1a3a7447/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/jp.wasabeef/picasso-transformations/2.1.0/7ad6fd84845ced9c670ca172d88010bee7c0e496/picasso-transformations-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
